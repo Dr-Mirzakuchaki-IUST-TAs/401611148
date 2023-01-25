@@ -1,0 +1,13 @@
+ISim log file
+Running: H:\term 1\VHDL\0mine\0spi\Project\Adf4351\Spi_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb H:/term 1/VHDL/0mine/0spi/Project/Adf4351/Spi_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+# run 1.00us
+# run 1.00us
