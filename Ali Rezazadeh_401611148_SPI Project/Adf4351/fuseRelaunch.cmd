@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "H:/term 1/VHDL/0mine/0spi/Project/Adf4351/Spi_tb_isim_beh.exe" -prj "H:/term 1/VHDL/0mine/0spi/Project/Adf4351/Spi_tb_beh.prj" "work.Spi_tb" 

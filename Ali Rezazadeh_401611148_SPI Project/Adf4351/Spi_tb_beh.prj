@@ -1,0 +1,2 @@
+vhdl work "Spi_module.vhd"
+vhdl work "Spi_tb.vhd"
